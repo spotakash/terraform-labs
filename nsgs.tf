@@ -4,7 +4,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "nsgs" {
-  name     = "NSGs"
+  name     = "NSG2"
   location = var.loc
   tags     = var.tags
 }
