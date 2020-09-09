@@ -4,5 +4,3 @@ Special thank to Richeney. Using Script & Guidance from his blog and repo https:
 Converted it and modify to run on TF v0.12+ and my variable
 
 Interpolation Lab and Counts 
-
-Lab files for https://aka.ms/citadel/terraform_workshop.
