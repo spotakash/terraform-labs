@@ -4,7 +4,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "nsgs" {
-  name     = "NSG2"
+  name     = "WebAppInterOpCount"
   location = var.loc
   tags     = var.tags
 }
