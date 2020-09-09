@@ -13,5 +13,6 @@ variable "tags" {
 variable "webapplocs" {
   description = "Default Azure Region for Web apps"
   type        = list(string)
-  default     = ["southeastasia", "westus2"]
+  default     = []
+  # default     = ["southeastasia", "westus2"] #
 }
